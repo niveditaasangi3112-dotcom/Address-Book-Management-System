@@ -1,0 +1,14 @@
+# Compiled executables
+addressbook
+addressbook.exe
+a.out
+*.o
+
+# Debug/build output
+*.out
+*.exe
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
